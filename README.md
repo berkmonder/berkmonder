@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,74 +9,84 @@
 - ⚡ Fun fact: ...
 -->
 
-<!-- ## 👋 &nbsp;Hey there! I'm Berk -->
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
+
+-----
+## Hi <img src="hi.gif" width="29px">, &nbsp;I'm [Berk M Önder!](https://berkmonder.github.io)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<!--
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at berkmonder@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.berkmonder.github.io) for more details about me. I'm open to feedback and suggestions!
-
--->
+- 💡 &nbsp;I like to explore the inner workings of the universe and cook delicious cookies 🍪
+- 🔭 &nbsp;I'm currently working on Data Science Projects from Istanbul Data Science Academy's Bootcamp 
+- 🎓 &nbsp;I'm a Master of Science student in Physics at the Istanbul University
+- 🌱 &nbsp;I'm on track for learning more about Exploratory Data Analysis, Feature Engineering, and Machine Learning Models
+- ✍️ &nbsp;In my free time, I pursue Novel Writing and Playing Chess as hobbies
+- 💬 &nbsp;Feel free to reach out to me for Data Science Project consulting and volunteering, or just for some interesting discussion about Data Science and/or Physics
+- ✉️ &nbsp;You can shoot me an email at berkmonder@gmail.com! I'll try to respond as soon as I can
+- 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io) for more details about me. I'm open to feedback and suggestions!
+<br/><br/>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-05122A?style=flat&logo=Jupyter)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&logoColor=276DC3)\
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNUBash)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=019733)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=LaTeX&logoColor=008080)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=000000)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
+![Undertale](https://img.shields.io/badge/-Heart-05122A?style=flat&logo=Undertale&logoColor=E71D29)&nbsp;
 
+---
 ### ⚙️ &nbsp;GitHub Analytics
 
+<details>
+  <summary>📈 GitHub Profile Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=berkmonder&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkmonder&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
+ 
+</details>
+
+<details>
+   <summary>📈 Contribution Graph </summary>
+   <br/>
+   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=berkmonder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
+
+---
+### 🤝 &nbsp;Connect with Me
+
 <p align="center">
+<a href="https://berkmonder.github.io"><img src="https://img.shields.io/badge/-github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/berk-monder-pi1415926535/"><img src="https://img.shields.io/badge/-Muhammed%20Berk%20Önder-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:berkmonder@gmail.com"><img src="https://img.shields.io/badge/-berkmonder@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:berkmonder@gmail.com"><img src="https://img.shields.io/badge/-monder-D14836?style=flat&logo=Lichess&logoColor=white"/></a>
 <a href="https://github.com/berkmonder">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkmonder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkmonder&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://komarev.com/ghpvc/?username=berkmonder&label=Views&color=blue&style=plastic" alt="berkmonder" />
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<!--
-
-<p align="center">
-<a href="https://www.berkmonder.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/berkmonder"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/berkmonder"><img src="https://img.shields.io/badge/-@berkmonder-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/berkmonder"><img src="https://img.shields.io/badge/-@berkmonder-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/berkmonder"><img src="https://img.shields.io/badge/-@berkmonder-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
-
--->
-
------
 Credits: [Berk M Önder](https://github.com/berkmonder)
 
-Last Edited on: 11/12/2020
+Last Edited on: 31/01/2022
