@@ -81,7 +81,7 @@
 <a href="https://berkmonder.github.io"><img src="https://img.shields.io/badge/-github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/berk-monder-pi1415926535/"><img src="https://img.shields.io/badge/-Muhammed%20Berk%20Önder-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:berkmonder@gmail.com"><img src="https://img.shields.io/badge/-berkmonder@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:berkmonder@gmail.com"><img src="https://img.shields.io/badge/-monder-D14836?style=flat&logo=Lichess&logoColor=white"/></a>
+<a href="https://lichess.org/@/monder"><img src="https://img.shields.io/badge/-monder-05122A?style=flat&logo=Lichess&logoColor=white"/></a>
 <a href="https://github.com/berkmonder">
   <img src="https://komarev.com/ghpvc/?username=berkmonder&label=Views&color=blue&style=plastic" alt="berkmonder" />
 </a>
@@ -89,4 +89,4 @@
 
 Credits: [Berk M Önder](https://github.com/berkmonder)
 
-Last Edited on: 31/01/2022
+Last Edited on: 01/02/2022
