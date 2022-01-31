@@ -28,7 +28,7 @@
 - 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io) for more details about me. I'm open to feedback and suggestions!
 <br/><br/>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="night_coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
