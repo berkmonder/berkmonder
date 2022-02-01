@@ -1,14 +1,3 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
@@ -18,13 +7,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I like to explore the inner workings of the universe and cook delicious cookies 🍪
+- 💡 &nbsp;I like to explore the inner workings of the Universe and cook _delicious_ cookies 🍪
 - 🔭 &nbsp;I'm currently working on Data Science Projects from Istanbul Data Science Academy's Bootcamp 
 - 🎓 &nbsp;I'm a Master of Science student in Physics at the Istanbul University
 - 🌱 &nbsp;I'm on track for learning more about Exploratory Data Analysis, Feature Engineering, and Machine Learning Models
 - ✍️ &nbsp;In my free time, I pursue Novel Writing and Playing Chess as hobbies
-- 💬 &nbsp;Feel free to reach out to me for Data Science Project consulting and volunteering, or just for some interesting discussion about Data Science and/or Physics
-- ✉️ &nbsp;You can shoot me an email at berkmonder@gmail.com! I'll try to respond as soon as I can
+- 💬 &nbsp;Feel free to reach out to me for Data Science Project consulting and volunteering, or just for some interesting discussion about Data Science and/or Physics; or to just play some Chess
+- 📫 &nbsp;You can shoot me an email at berkmonder@gmail.com! I'll try to respond as soon as I can
 - 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io) for more details about me. I'm open to feedback and suggestions!
 <br/><br/>
 
@@ -40,11 +29,12 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)\
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)\
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=276DC3)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNUBash)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
