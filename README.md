@@ -12,7 +12,7 @@
 - 🎓 &nbsp;I'm a Master of Science student in Physics at the Istanbul University
 - 🌱 &nbsp;I'm on track for learning more about Exploratory Data Analysis, Feature Engineering, and Machine Learning Models
 - ✍️ &nbsp;In my free time, I pursue Novel Writing and Playing Chess as hobbies
-- 💬 &nbsp;Feel free to reach out to me for Data Science Project consulting and volunteering, or just for some interesting discussion about Data Science and/or Physics; or to just play some Chess
+- 💬 &nbsp;Feel free to reach out to me for Data Science Project consulting and volunteering, or just for some interesting discussion about Data Science and/or Physics
 - 📫 &nbsp;You can shoot me an email at berkmonder@gmail.com! I'll try to respond as soon as I can
 - 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io) for more details about me. I'm open to feedback and suggestions!
 <br/><br/>
@@ -61,7 +61,7 @@
 <details>
    <summary>📈 Contribution Graph </summary>
    <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=berkmonder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=berkmonder&bg_color=000000&color=AFBFFF&line=2222EE&point=00AA00&hide_border=true" /></a>
 </details>
 
 ---
