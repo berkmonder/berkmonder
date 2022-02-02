@@ -61,7 +61,7 @@
 <details>
    <summary>📈 Contribution Graph </summary>
    <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=berkmonder&bg_color=000000&color=AFBFFF&line=2222EE&point=00AA00&hide_border=true" /></a>
+   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=berkmonder&bg_color=000000&color=8bff0c&line=2222EE&point=44DD66&hide_border=true" /></a>
 </details>
 
 ---
