@@ -14,7 +14,7 @@
 - ✍️ &nbsp;In my free time, I pursue Novel Writing and Playing Chess as hobbies
 - 💬 &nbsp;Feel free to reach out to me for Data Science Project consulting and volunteering, or just for some interesting discussion about Data Science and/or Physics
 - 📫 &nbsp;You can shoot me an email at berkmonder@gmail.com! I'll try to respond as soon as I can
-- 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 <br/><br/>
 
 <img alt="Night Coding" src="night_coding.gif" align="right"/>
