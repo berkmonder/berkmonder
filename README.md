@@ -1,9 +1,11 @@
 <p align="center">
+<a href="https://www.google.com/search?q=conway%27s+game+of+life&sxsrf=ALiCzsZPBneeM5LN066SXe1ufhgoJEpOjg%3A1653503638132&ei=lnaOYs6jB96Exc8PlNu6gAI&ved=0ahUKEwjOxvCHpfv3AhVeQvEDHZStDiAQ4dUDCA4&uact=5&oq=conway%27s+game+of+life&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyBwgAELADEEMyCggAEOQCELADGAEyCggAEOQCELADGAEyCggAEOQCELADGAEyDAguEMgDELADEEMYAjIMCC4QyAMQsAMQQxgCMg8ILhDUAhDIAxCwAxBDGAIyDwguENQCEMgDELADEEMYAkoECEEYAEoECEYYAVAAWABgsQVoAXABeACAAQCIAQCSAQCYAQDIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz">
   <img src="https://static.wixstatic.com/media/fcafd2_592d28e6bd6c4d589a15555ee4315e92~mv2.gif" alt="Coder GIF" width="640" height="360">
+</a>
 </p>
 
 -----
-## Hi <img src="hi.gif" width="29px">, &nbsp;I'm [Muhammed Berk Önder!](https://berkmonder.github.io)
+## Hi <img src="hi.gif" width="29px">, &nbsp;I'm [Muhammed Berk Önder!](https://berkmonder.github.io/about)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
