@@ -16,7 +16,9 @@
 - 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 <br/><br/><br/>
 
-<img alt="Night Coding" src="night_coding.gif" align="right"/>
+<table border="0">
+<tr>
+<td>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,6 +46,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
 ![Undertale](https://img.shields.io/badge/-Heart-05122A?style=flat&logo=Undertale&logoColor=E71D29)&nbsp;
+</td>
+<td>
+<img alt="Night Coding" src="night_coding.gif" align="right"/>
+</td>
+</tr>
+</table>
 
 ---
 ### 🤝 &nbsp;Connect with Me
