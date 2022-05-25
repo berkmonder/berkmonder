@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://static.wixstatic.com/media/fcafd2_592d28e6bd6c4d589a15555ee4315e92~mv2.gif" alt="Coder GIF" width="640" height="360">
 </p>
 
 -----
@@ -7,15 +7,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;I like to explore the inner workings of the Universe and cook _delicious_ cookies 🍪
-- 🔭 &nbsp;I'm currently working on Data Science Projects from Istanbul Data Science Academy's Bootcamp 
-- 🎓 &nbsp;I'm a Master of Science student in Physics at the Istanbul University
-- 🌱 &nbsp;I'm on track for learning more about Exploratory Data Analysis, Feature Engineering, and Machine Learning Models
-- ✍️ &nbsp;In my free time, I pursue Novel Writing and Playing Chess as hobbies
+- 💡 &nbsp;I like to explore the inner workings of the Universe and cook _delicious_ cookies 🍪.
+- 🔭 &nbsp;I'm currently working on making a Robotic Arm to reach to a target by itself using NEAT.
+- 🎓 &nbsp;I'm a Master of Science student in Physics at the Istanbul University.
+- 🌱 &nbsp;I'm on track for learning more about OOP in Python, and Neural Networks.
 - 💬 &nbsp;Feel free to reach out to me for Data Science Project consulting and volunteering, or just for some interesting discussion about Data Science and/or Physics
 - 📫 &nbsp;You can shoot me an email at berkmonder@gmail.com! I'll try to respond as soon as I can
 - 📄 &nbsp;Please have a look at my [Résumé](https://berkmonder.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
-<br/><br/>
+<br/><br/><br/>
 
 <img alt="Night Coding" src="night_coding.gif" align="right"/>
 
@@ -31,9 +30,9 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)\
+![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)\
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=003B57)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=276DC3)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNUBash)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -47,36 +46,16 @@
 ![Undertale](https://img.shields.io/badge/-Heart-05122A?style=flat&logo=Undertale&logoColor=E71D29)&nbsp;
 
 ---
-### ⚙️ &nbsp;GitHub Analytics
-
-<details>
-  <summary>📈 GitHub Profile Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=berkmonder&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkmonder&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
-  <br/>
- 
-</details>
-
-<details>
-   <summary>📈 Contribution Graph </summary>
-   <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=berkmonder&bg_color=000000&color=8bff0c&line=2222EE&point=44DD66&hide_border=true" /></a>
-</details>
-
----
 ### 🤝 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://berkmonder.github.io"><img src="https://img.shields.io/badge/-github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/berk-monder-pi1415926535/"><img src="https://img.shields.io/badge/-Muhammed%20Berk%20Önder-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:berkmonder@gmail.com"><img src="https://img.shields.io/badge/-berkmonder@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://lichess.org/@/monder"><img src="https://img.shields.io/badge/-monder-05122A?style=flat&logo=Lichess&logoColor=white"/></a>
-<a href="https://github.com/berkmonder">
-  <img src="https://komarev.com/ghpvc/?username=berkmonder&label=Views&color=blue&style=plastic" alt="berkmonder" />
-</a>
+  <a href="https://berkmonder.github.io"><img src="https://img.shields.io/badge/-github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/berk-monder-pi1415926535/"><img src="https://img.shields.io/badge/-Muhammed%20Berk%20Önder-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:berkmonder@gmail.com"><img src="https://img.shields.io/badge/-berkmonder@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://lichess.org/@/monder"><img src="https://img.shields.io/badge/-monder-05122A?style=flat&logo=Lichess&logoColor=white"/></a>
+  <a href="https://github.com/berkmonder">
+    <img src="https://komarev.com/ghpvc/?username=berkmonder&label=Views&color=blue&style=plastic" alt="berkmonder" />
+  </a>
 </p>
 
-Credits: [Berk M Önder](https://github.com/berkmonder)
-
-Last Edited on: 01/02/2022
+Last Edited on: 25/05/2022
