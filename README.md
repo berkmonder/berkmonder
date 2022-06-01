@@ -3,7 +3,7 @@
 </p>
 
 -----
-## Hi <img src="hi.gif" width="5%">, &nbsp;I'm [Muhammed Berk Önder!](https://berkmonder.github.io/about)
+## Hi <img src="hi.gif" width="3%">, &nbsp;I'm [Muhammed Berk Önder!](https://berkmonder.github.io/about)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
