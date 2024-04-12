@@ -3,7 +3,11 @@
 </p>
 
 -----
-## Hi <img src="hi.gif" width="3%">, I'm [Muhammed Berk Önder](https://berkmonder.github.io/about)
+## Hi <img src="hi.gif" width="3%">, I'm Muhammed Berk Önder. Find more about me <a href="https://berkmonder.github.io/about"><img src="https://img.shields.io/badge/-github.io-39477F?style=flat&logo=react&logoColor=61DAFB"/> here</a>.
+
+<table border="0">
+<tr>
+<td>
 
 <table border="0">
 <tr>
